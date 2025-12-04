@@ -32,6 +32,8 @@ A community curated list of resources for Continuous Clearing Auctions
 ## Content
 - [CCA discussion livestream w/ Aztec](https://x.com/Uniswap/status/1996248308428202036)
 - [Parsec post about Aztec CCA sale](https://parsec.substack.com/p/parsec-weekly-140)
+- [Deep dive explainer by @FreddieFarmer](https://x.com/FreddieFarmer/status/1994469052840886613)
+- [Youtube walkthrough by @CiaraNightingal](https://www.youtube.com/watch?v=0J-tbrpTlXo) [[Source](https://x.com/CiaraNightingal/status/1995543584976556277)]
 
 ## Contributing
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
