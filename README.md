@@ -19,9 +19,19 @@ A community curated list of resources for Continuous Clearing Auctions
 ## Developing on CCA
 - [Ponder indexer](https://github.com/Uniswap/cca-indexer)
 
+## Integrations
+- [Flow.bid](https://www.flow.bid/) [[Source](https://x.com/mjc716/status/1996345281768718414)]
+- [CCA ICP implementation](https://github.com/ldclabs/token-listing/blob/1ee63a7489694e192458378a0a0cecff2ee614a6/docs/cca.md) [[Source](https://x.com/icpandadao/status/1996587127367442838?s=46)]
+
 ## Data visualizations
-- [Aztec sale dashboard by ventifact](https://dune.com/ventifact/aztec-token-sale)
+- [Aztec dune dashboard by ventifact](https://dune.com/ventifact/aztec-token-sale)
+- [Aztec dune dashboard by nickdune](https://dune.com/nickdune/aztec-token-sale)
+- [Aztec sale dashboard by @Franacc_](https://aztec-sale-explorer.vercel.app/stats) [[Twitter](https://x.com/Franacc_)]
 - [Bot for participating in the Aztec CCA sale](https://github.com/lumoswiz/aztec-cca)
+
+## Content
+- [CCA discussion livestream w/ Aztec](https://x.com/Uniswap/status/1996248308428202036)
+- [Parsec post about Aztec CCA sale](https://parsec.substack.com/p/parsec-weekly-140)
 
 ## Contributing
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
