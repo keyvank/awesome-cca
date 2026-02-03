@@ -28,6 +28,7 @@ A community curated list of resources for Continuous Clearing Auctions
 - [Aztec dune dashboard by nickdune](https://dune.com/nickdune/aztec-token-sale)
 - [Aztec sale dashboard by @Franacc_](https://aztec-sale-explorer.vercel.app/stats) [[Twitter](https://x.com/Franacc_)]
 - [Bot for participating in the Aztec CCA sale](https://github.com/lumoswiz/aztec-cca)
+- [Tally CCA simulator](https://www.tally.xyz/sale-simulator)
 
 ## Content
 - [CCA discussion livestream w/ Aztec](https://x.com/Uniswap/status/1996248308428202036)
