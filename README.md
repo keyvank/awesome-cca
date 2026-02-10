@@ -31,6 +31,7 @@ A community curated list of resources for Continuous Clearing Auctions
 - [Tally CCA simulator](https://www.tally.xyz/sale-simulator)
 
 ## Content
+- [Managing Liquidity After Uniswap CCA by Arrakis](https://arrakis.finance/blog/uniswap-cca)
 - [CCA discussion livestream w/ Aztec](https://x.com/Uniswap/status/1996248308428202036)
 - [Parsec post about Aztec CCA sale](https://parsec.substack.com/p/parsec-weekly-140)
 - [Deep dive explainer by @FreddieFarmer](https://x.com/FreddieFarmer/status/1994469052840886613)
