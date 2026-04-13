@@ -15,6 +15,7 @@ A community curated list of resources for Continuous Clearing Auctions
 - [Whitepaper](https://docs.uniswap.org/whitepaper_cca.pdf)
 - [CCA Smart Contracts](https://github.com/Uniswap/continuous-clearing-auction)
 - [CCA Security Audits](https://github.com/Uniswap/continuous-clearing-auction/tree/main/docs/audits)
+- [CCA Simulator in Python](https://github.com/keyvank/ccasim)
 
 ## Developing on CCA
 - [Ponder indexer](https://github.com/Uniswap/cca-indexer)
